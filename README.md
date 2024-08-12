@@ -17,7 +17,9 @@ Welcome to my [***_World!!_***](https://github.com/Mectoche) I'm a Brazilian dev
   <a href="https://software.fujitsu.com/jp/manual/manualfiles/m150010/b1wd3367/01enz200/index.html"> <img src="https://img.icons8.com/external-filled-outline-icons-maxicons/85/external-ancient-the-lost-world-filled-outline-filled-outline-icons-maxicons-9.png" alt="external-ancient-the-lost-world-flat-flat-icons-maxicons-21" width="70">
   </a>
 </div>
+    
     #
+    
 <div id="linguagens" align="center">
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mectoche&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
